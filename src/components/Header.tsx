@@ -11,8 +11,7 @@ const Header = () => {
     <Wrapper>
       <SpanHiddenOnMobile />
       <PageTitle>
-        TESTING <span />
-        REACT.DEV
+        TESTING REACT APP
       </PageTitle>
 
       <FilterButton data-testid="FilterButton" onClick={toggleShowingFilters}>

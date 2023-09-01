@@ -12,7 +12,7 @@ exports[`The <Checkbox /> component Should render the label and checkbox the use
       type="checkbox"
     />
     <label
-      class="sc-AxiKw cwRuvq"
+      class="sc-AxiKw iAyXHq"
       for="TEST_CHECKBOX_ID"
     >
       <span

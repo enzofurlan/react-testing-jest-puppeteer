@@ -1,10 +1,3 @@
-# Testing React Workshop
-
-Hi there 👋. My name is [Kati Frantz](https://katifrantz.com) and this is source
-material for [Testing react apps](https://testingreact.dev). Thank you very much
-for visiting this repository. If you haven't joined the course yet, please visit
-[Testing react](https://testingreact.dev) to enrol for free.
-
 ## Setup
 
 `virtualenv .env`

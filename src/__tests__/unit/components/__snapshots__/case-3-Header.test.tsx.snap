@@ -11,9 +11,7 @@ exports[`The Header component renders header correctly 1`] = `
     <div
       class="sc-AxjAm dGBLMY"
     >
-      TESTING 
-      <span />
-      REACT.DEV
+      TESTING REACT APP
     </div>
     <button
       class="sc-AxirZ xKohc"
