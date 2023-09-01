@@ -1,10 +1,14 @@
 ## Setup
 
-`virtualenv .env`
-`source .env/bin/activate`
+```
+virtualenv .env
+source .env/bin/activate
+```
 
-`yarn install`
-`yarn dev`
+```
+yarn install
+yarn dev
+```
 
 ## Tests
 
