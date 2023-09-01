@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/enzofurlan/react-testing-jest-puppeteer/actions/workflows/node.js.yml/badge.svg)](https://github.com/enzofurlan/react-testing-jest-puppeteer/actions/workflows/node.js.yml)
+
 ## Setup
 
 ```
